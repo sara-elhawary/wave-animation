@@ -25,9 +25,10 @@ body {
   width: 14px;
   height: 14px;
   border-radius: 50%;
-  color: white;
+  background-color: white;
   margin: 8px;
   transition: transform 0.3s linear;
+  cursor: pointer;
 }
 
 .circle.grow {
